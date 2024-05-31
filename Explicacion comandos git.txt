@@ -1,0 +1,5 @@
+git clone- sirve para clonar un repositorio y tenerlo de forma local en la computadora
+git push- sirve para enviar los cambios locales al repositorio remoto
+git pull- sirve para mantener el repositorio local sincronizado al remoto.
+git branch- git branch se utiliza para gestionar las ramas de un repositorio
+git switch- sirve para cambiar o crear y cambiar de rama dentro de un repositorio
