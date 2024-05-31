@@ -1,0 +1,11 @@
+git clone: Clonea el repositorio remote a local
+
+push: Sube el archivo modificado
+
+pull: Descarga la última versión del archivo de repo remote a local
+
+branch: Muestra todas las ramas existentes o crea una nueva rama. 
+
+switch: Cambiar de la rama en que ubicas. 
+
+merge: Copia lo que contiene otra rama a la rama que estás. 
